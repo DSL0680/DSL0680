@@ -47,7 +47,7 @@
 
 
 ## ⚙ Projects
-🍪 <a href="https://github.com/eSnack24" target="_blank">eSnack24</a> : Web 기반의 Vector Image Search를 활용한 User Allergy Warining Service가 메인인 과자 쇼핑몰 Web-Application
+🍪 <a href="https://github.com/eSnack24" target="_blank">eSnack24</a> : Web 기반의 Vector Image Search를 활용한 User Allergy Warining Service 과자 쇼핑몰 Web-Application
 
 ## 🎓 Education
 <div align="center">
