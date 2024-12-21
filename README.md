@@ -52,7 +52,7 @@
 <div align="center">
 <table>
   <tr> <th>자격종목</th> <th>시행기관</th> <th>합격일자</th> </tr>
-  <tr> <td align="center">정보처리기사</td> <td align="center">한국산업인력공단</td> <td>2023.09.01</td> </tr>
+  <tr> <td align="center">정보처리기사</td> <td align="center">한국산업인력공단</td> <td>2024.06.18</td> </tr>
 </table>
 </div>
 
