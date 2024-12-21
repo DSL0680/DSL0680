@@ -1,7 +1,5 @@
 ## DASOL LEE
-
 ###### #Backend #Frontend #Web #App
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDSL0680&count_bg=%2379C83D&title_bg=%234169E1&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🛠 Skills
@@ -36,6 +34,8 @@
 ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 </div>
+
+## 
 
 <div align="center">
 
