@@ -8,7 +8,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekthf513)](https://solved.ac/ekthf513)    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSL0680&langs_count=10&layout=compact&theme=vue-dark) <br/><br/>
-![Programmers Badge](https://raw.githubusercontent.com/DSL0680/programmers-badge-generator/main/result/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/DSL0680/Programmers_Badge_Generator/main/result/result.svg)
 </div>
 
 
