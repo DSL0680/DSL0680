@@ -1,5 +1,16 @@
 ## DASOL LEE
 
+###### #Backend #Web #App #Faithful #Passionate
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDSL0680&count_bg=%2379C83D&title_bg=%234169E1&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekthf513)](https://solved.ac/ekthf513)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSL0680&langs_count=10&layout=compact&theme=vue-dark) <br/><br/>
+![Programmers Badge](https://raw.githubusercontent.com/DSL0680/programmers-badge-generator/main/result/result.svg)
+</div>
+
 
 ## 🛠 Skills
 <div align="center">
