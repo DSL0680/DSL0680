@@ -35,14 +35,29 @@
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 </div>
 
-## 
-
+## 📊 GitHub Top Languages  
 <div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSL0680&langs_count=10&layout=compact&theme=vue-dark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekthf513)](https://solved.ac/ekthf513)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSL0680&langs_count=10&layout=compact&theme=vue-dark) <br/><br/>
-![Programmers Badge](https://raw.githubusercontent.com/DSL0680/Programmers_Badge_Generator/main/result/result.svg)
 </div>
+
+## 🏆 Solved.ac Profile  
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekthf513)](https://solved.ac/ekthf513)
+
+</div>
+
+## 🏅 Programmers Badge  
+<div align="center">
+  
+![Programmers Badge](https://raw.githubusercontent.com/DSL0680/Programmers_Badge_Generator/main/result/result.svg)
+
+</div>
+
+
+
 
 
 ## ⚙ Projects
