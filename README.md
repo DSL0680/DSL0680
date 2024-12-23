@@ -67,7 +67,7 @@
 <div align="center">
 <table>
   <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
-  <tr> <td>신세계 I&C <a href="https://www.spharosacademy.com" target="_blank">스파로스 아카데미</a> KDT 6차수</td> <td>2024.07.01 ~ 2024.12.24</td> <td align="center">·</td> </tr>
+  <tr> <td>신세계 I&C <a href="https://www.spharosacademy.com" target="_blank">스파로스 아카데미</a> KDT 6기</td> <td>2024.07.01 ~ 2024.12.24</td> <td align="center">·</td> </tr>
   <tr> <td>부산가톨릭대학교 <a href="https://www.cup.ac.kr/dept/soft/main.do" target="_blank">소프트웨어학과</a> 졸업</td> <td>2018.03. ~ 2024.02.</td> <td>[평점 평균: <strong>3.59</strong> / 4.5] </tr>
   <tr> <td>부산대학교사범대학부설고등학교 졸업</td> <td>2014.03. ~ 2017.02.</td> <td align="center">·</td> </tr>
 </table>
